@@ -1,0 +1,31 @@
+{
+	"name": "fcc-learn-npm-package-json",
+	"version": "1.0.0",
+	"description": "FreeCodeCamp - BackEnd Course",
+	"keywords": [
+		"Course",
+		"Back End",
+		"Web",
+		"Development",
+		"App",
+		"Package"
+	],
+	"dependencies": {
+		"express": "^4.18.1"
+	},
+	"author": {
+		"name": "Santiago Cabrera",
+		"email": "sancabwebdesign@gmail.com",
+		"url": "https://github.com/Smak0806"
+	},
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/Smak0806/FreeCodeCamp-backend-course.git"
+	},
+	"license": "MIT",
+	"package": "MAJOR.MINOR.PATCH"
+}
