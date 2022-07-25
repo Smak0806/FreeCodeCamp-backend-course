@@ -3,6 +3,12 @@
 	"dependencies": {
 		"express": "^4.14.0"
 	},
+  	"author": 
+  	{
+  		"name" : "Santiago Cabrera",
+  		"email" : "sancabwebdesign@gmail.com",
+  		"url" : "https://github.com/Smak0806"
+	},
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
